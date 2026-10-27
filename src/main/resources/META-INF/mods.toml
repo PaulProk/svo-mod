@@ -1,0 +1,13 @@
+[[mods]]
+modId="missile"
+version="${version}"
+displayName="Missile Arsenal"
+description='''Realistic missile weapons for Minecraft.'''
+authors="MissileDev"
+
+[[dependencies.missile]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="both"

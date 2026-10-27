@@ -1,0 +1,7 @@
+{
+  "item.missile.rpg7": "РПГ-7",
+  "item.missile.ptur": "9М111 Фагот (ПТУР)",
+  "item.missile.zur": "ЗУР (Зенитная управляемая ракета)",
+  "creativeTab.missile.missile_arsenal": "Арсенал ракет",
+  "itemGroup.missile.missile_arsenal": "Арсенал ракет"
+}
